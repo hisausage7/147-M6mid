@@ -510,6 +510,328 @@
       "C. high rotational speed components"
     ],
     answer: "B"
+  },
+  {
+    question: "A polymer that cannot be re-moulded by heat once it has cured is classed as a:",
+    options: ["A. thermoplastic", "B. thermoset", "C. elastomer"],
+    answer: "B"
+  },
+  {
+    question: "A cold curing resin will:",
+    options: [
+      "A. produce heat as it cures",
+      "B. not produce heat as it cures",
+      "C. require an external source of heat to cure"
+    ],
+    answer: "A"
+  },
+  {
+    question: "The catalyst used for curing polyester resins is:",
+    options: ["A. styrene based", "B. peroxide based", "C. epoxy based"],
+    answer: "B"
+  },
+  {
+    question: "An accelerator is mixed with the:",
+    options: [
+      "A. catalyst first before mixing it into the resin",
+      "B. resin before adding the catalyst",
+      "C. resin after the catalyst has been mixed into it"
+    ],
+    answer: "B"
+  },
+  {
+    question: "The two tests that are related to adhesive bonded joints are:",
+    options: ["A. tensile and hardness", "B. impact and shear", "C. peel and shear"],
+    answer: "C"
+  },
+  {
+    question: "Compared to a large bulk of activated resin, the pot life of a smaller bulk will be:",
+    options: ["A. longer", "B. shorter", "C. similar"],
+    answer: "A"
+  },
+  {
+    question: "A typical polyester resin/glass fibre ratio would be:",
+    options: ["A. 2:1", "B. 1:1", "C. 1:2"],
+    answer: "A"
+  },
+  {
+    question: "A thermosetting polymer cures by:",
+    options: [
+      "A. forming long-chain molecules",
+      "B. covalent cross-linking between molecules",
+      "C. ionic bonding between molecules"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Increasing the temperature of a cold cure resin will:",
+    options: [
+      "A. decrease the pot life",
+      "B. increase the pot life",
+      "C. increase the strength of the bond"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Aluminium oxide is classed as a:",
+    options: ["A. carbide", "B. silicate", "C. ceramic"],
+    answer: "C"
+  },
+  {
+    question: "When a crack travelling through a fibre reinforced plastics matrix meets a fibre it:",
+    options: ["A. stops", "B. goes over it", "C. travels along it"],
+    answer: "C"
+  },
+  {
+    question: "If the thickness of a beam is trebled its stiffness increases by a factor of:",
+    options: ["A. 3", "B. 6", "C. 9"],
+    answer: "C"
+  },
+  {
+    question: "Chopped strand matting is used to reinforce general purpose plastics because it:",
+    options: [
+      "A. gives more strength than woven fibres",
+      "B. gives strength equally in all directions",
+      "C. has short fibres that make it lighter"
+    ],
+    answer: "B"
+  },
+  {
+    question: "A ‘cermet’ is the term given to describe:",
+    options: ["A. ceramic reinforced metal", "B. compacted ceramic powder", "C. carbides"],
+    answer: "A"
+  },
+  {
+    question: "A ‘step’ curing process is carried out:",
+    options: [
+      "A. automatically by a programmed controller",
+      "B. by installing the repair in a vacuum bag",
+      "C. manually by an operator"
+    ],
+    answer: "C"
+  },
+  {
+    question: "A satin weave would be stronger than a plain woven material because:",
+    options: [
+      "A. all the fibres lay in the warp direction",
+      "B. there is less crimp",
+      "C. the fibres are equally divided in two directions"
+    ],
+    answer: "B"
+  },
+  {
+    question: "Ceramics materials are:",
+    options: [
+      "A. hard and brittle and have good electrical and thermal resistance",
+      "B. hard and brittle and are good conductors of heat and electricity",
+      "C. tough and strong and are good heat conductors but poor electrical conductors"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Sintering is a process that involves:",
+    options: [
+      "A. the bonding of molecules by cross-linking with catalysts",
+      "B. breaking molecular bonds during polymerisation",
+      "C. the cold fusion and heat treatment of powdered materials"
+    ],
+    answer: "C"
+  },
+  {
+    question: "Dispersion hardening is a process where:",
+    options: [
+      "A. particles of ceramic materials lock the slip planes in cermets",
+      "B. carbides are cemented to the tips of cutting tools",
+      "C. micro-balloons are added to resins to harden them"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Damaged honeycomb core is removed from a panel by:",
+    options: ["A. drilling", "B. routing", "C. mechanical sanding"],
+    answer: "B"
+  },
+  {
+    question: "When raising the temperature of a cold cure repair to hasten curing, the upper temperature limit is approximately:",
+    options: ["A. 265°C", "B. 25°C", "C. 65°C"],
+    answer: "C"
+  },
+  {
+    question: "Plastics materials are most prone to deterioration from:",
+    options: ["A. moisture", "B. ultra-violet radiation", "C. low ambient temperatures"],
+    answer: "B"
+  },
+  {
+    question: "A problem experienced when drilling aramids is that the:",
+    options: [
+      "A. ends of the fibres ‘fuzz’ the edges of the hole",
+      "B. hole tends to be oversized",
+      "C. drill quickly overheats and blunts"
+    ],
+    answer: "A"
+  },
+  {
+    question: "When scarf cutting a composite laminate in preparation for a repair, the approximate ratio of repair depth to repair site diameter is between:",
+    options: ["A. 5:1 and 10:1", "B. 10:1 and 20:1", "C. 30:1 and 50:1"],
+    answer: "C"
+  },
+  {
+    question: "The pressure applied to a vacuum bagged repair is primarily supplied by:",
+    options: ["A. vacuum", "B. atmospheric pressure", "C. a calking plate"],
+    answer: "B"
+  },
+  {
+    question: "The type of wood most commonly used for aircraft structure is:",
+    options: ["A. balsa", "B. yellow birch", "C. spruce"],
+    answer: "C"
+  },
+  {
+    question: "The maximum grain inclination for the grade-A timber that is most commonly used in aircraft structure is:",
+    options: ["A. 1 in 20", "B. 1 in 15", "C. 1 in 5"],
+    answer: "B"
+  },
+  {
+    question: "The correct moisture content for aircraft timber is:",
+    options: ["A. 15% plus or minus 2%", "B. 12% plus or minus 1%", "C. 60% plus or minus 5%"],
+    answer: "A"
+  },
+  {
+    question: "The factor presenting the greatest risk of deterioration in wooden aircraft is:",
+    options: ["A. temperature change", "B. moisture penetration", "C. sunlight"],
+    answer: "B"
+  },
+  {
+    question: "The least percentage of wood fibres that should be seen adhered to the glue faces of a broken test sample that is classed as acceptable is:",
+    options: ["A. 50%", "B. 75%", "C. 100%"],
+    answer: "B"
+  },
+  {
+    question: "The type of adhesive extensively used for wooden aircraft structural joints is:",
+    options: ["A. organic glue", "B. casein glue", "C. synthetic resin"],
+    answer: "C"
+  },
+  {
+    question: "A compression shake is a:",
+    options: [
+      "A. split that runs along the grain of the wood",
+      "B. split between two annular rings",
+      "C. thin fracture line running across the grain"
+    ],
+    answer: "C"
+  },
+  {
+    question: "As a general rule, the maximum permissible diameter for a knot in aviation grade timber is:",
+    options: ["A. 0.25 inch", "B. 0.5 inch", "C. 1 inch"],
+    answer: "A"
+  },
+  {
+    question: "When checking the integrity of a glue line you should use a:",
+    options: ["A. spring balance", "B. feeler gauge", "C. impact tester"],
+    answer: "B"
+  },
+  {
+    question: "Timber displays the greatest strength:",
+    options: [
+      "A. across the grain direction",
+      "B. equally across and in the grain direction",
+      "C. in the grain direction"
+    ],
+    answer: "C"
+  },
+  {
+    question: "When converting timber, the cut that produces the least warp is called:",
+    options: ["A. rift sawing", "B. tangential sawing", "C. longitudinal sawing"],
+    answer: "A"
+  },
+  {
+    question: "Oily brownish yellow patches appearing on the surface of timber are a sign of:",
+    options: ["A. dote disease", "B. dry rot", "C. seasoning"],
+    answer: "A"
+  },
+  {
+    question: "White Ash is a:",
+    options: ["A. brittle hardwood", "B. flexible hardwood", "C. weak softwood"],
+    answer: "B"
+  },
+  {
+    question: "Glued joints in wooden structures are normally designed to accept:",
+    options: ["A. tensile loads", "B. bending loads", "C. shear loads"],
+    answer: "C"
+  },
+  {
+    question: "End grain glued joints are:",
+    options: ["A. ineffective", "B. the strongest form of glued joint", "C. only used in laminated woods"],
+    answer: "A"
+  },
+  {
+    question: "The grain directions of the face plies in plywood are:",
+    options: ["A. at ninety degrees to each other", "B. the same", "C. at forty-five degrees to each other"],
+    answer: "B"
+  },
+  {
+    question: "The face plies of plywood are manufactured from:",
+    options: ["A. softwood", "B. wood composite", "C. hardwood"],
+    answer: "C"
+  },
+  {
+    question: "The process of 'seasoning' is carried out on timber to:",
+    options: ["A. increase the moisture content", "B. reduce the moisture content", "C. remove all moisture"],
+    answer: "B"
+  },
+  {
+    question: "If the glue face on a failed joint displays only the imprint of wood grain the most likely cause of the failure is:",
+    options: [
+      "A. the glue had cured before pressure was applied to the joint",
+      "B. the timber in the joint had failed",
+      "C. the pot life of the glue had expired before it was applied"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Gusset plates are fitted either side of joints in wooden cross members to:",
+    options: [
+      "A. carry loads across end grain joints",
+      "B. protect the glue lines from moisture penetration",
+      "C. react tensile loads"
+    ],
+    answer: "A"
+  },
+  {
+    question: "Powder resins are prepared by mixing them with:",
+    options: ["A. methylated spirit", "B. catalyst", "C. water"],
+    answer: "C"
+  },
+  {
+    question: "When a glued joint is assembled the clamping pressure should be re-checked after:",
+    options: ["A. 24 hours", "B. 10 minutes", "C. 1 hour"],
+    answer: "B"
+  },
+  {
+    question: "The 'Closed Assembly Time' in relation to a glued joint is the elapsed time between:",
+    options: [
+      "A. assembling the joint and the application of pressure",
+      "B. application of adhesive and the assembly of the joint",
+      "C. the application of pressure and the curing of the adhesive"
+    ],
+    answer: "A"
+  },
+  {
+    question: "A 'close contact adhesive' is a:",
+    options: [
+      "A. gap filling adhesive suitable for joints that are not in close contact",
+      "B. single spread adhesive that is applied to one joint face only",
+      "C. non-gap-filling adhesive suitable for joints that are in close contact"
+    ],
+    answer: "C"
+  },
+  {
+    question: "The rate of growth of timber suitable for aircraft use should not be less than:",
+    options: [
+      "A. six annual rings per inch (25mm)",
+      "B. twelve annual rings per inch (25mm)",
+      "C. six annual rings per centimetre"
+    ],
+    answer: "A"
   }
 
 
